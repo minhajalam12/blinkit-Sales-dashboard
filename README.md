@@ -115,6 +115,8 @@ This dashboard helps Blinkit (or any retail company) to:
 ✅ Understand sales trends by region & size
 ✅ Make data-driven decisions for growth
 
+* Dashboard :- https://github.com/minhajalam12/blinkit-Sales-dashboard/blob/main/Screenshot%202025-08-25%20135356.png
+
 
 
 ✨ If you found this project helpful, don’t forget to ⭐ star this repository!

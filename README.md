@@ -1,6 +1,7 @@
 .
 
 📊 Blinkit Sales Dashboard – Power BI Project
+
 🔹 Project Overview
 
 This project is a Power BI Dashboard created to analyze Blinkit’s sales and outlet performance.
@@ -43,6 +44,7 @@ Data Analysis → Identifying trends, KPIs, and insights
 Business Intelligence Concepts → Outlets, Categories, Sales KPIs
 
 🔹 Step-by-Step Project Workflow
+
 1️⃣ Data Collection
 
 Dataset collected in Excel/CSV format containing Blinkit sales records.
@@ -112,5 +114,7 @@ This dashboard helps Blinkit (or any retail company) to:
 ✅ Identify best-performing product categories
 ✅ Understand sales trends by region & size
 ✅ Make data-driven decisions for growth
+
+
 
 ✨ If you found this project helpful, don’t forget to ⭐ star this repository!
